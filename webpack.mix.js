@@ -21,7 +21,8 @@ const mix = require('laravel-mix');
    'resources/js/plantilla/bootstrap.min.js',
    'resources/js/plantilla/pace.min.js',
    'resources/js/plantilla/Chart.min.js',
-   'resources/js/plantilla/template.js'
+   'resources/js/plantilla/template.js',
+   'resources/js/plantilla/sweetalert2.all.min.js'
 ], 'public/js/plantilla.js')
 
 .js(['resources/js/app.js'],'public/js/app.js');

@@ -81,8 +81,8 @@
   </div>
 
     <footer class="app-footer">
-        <span><a href="http://www.incanatoit.com/">IncanatoIT</a> &copy; 2017</span>
-        <span class="ml-auto">Desarrollado por <a href="http://www.incanatoit.com/">IncanatoIT</a></span>
+        <span><a href="https://www.rincosoft.com/">Rincosoft</a> &copy; 2017</span>
+        <span class="ml-auto">Desarrollado por <a href="https://www.rincosoft.com/">Rincosoft</a></span>
     </footer>
 
     <!-- Bootstrap and necessary plugins -->
